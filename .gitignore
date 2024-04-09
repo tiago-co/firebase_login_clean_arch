@@ -19,3 +19,9 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+ios/GoogleService-Info.plist
+
+lib/firebase_options.dart
+
+ios/Runner/GoogleService-Info.plist
